@@ -6,14 +6,15 @@
 <pre>
 <details>
 <summary>Group Members</summary>
-  
 - Muhammad Zuhairi bin Mohd Ridhuan<br>
 - Muhammad Shaheed Putra bin Salim<br>
 - Muhammad Dinie Adlyn bin Kamarluddin<br>
 - Muhammad Ammar Irfan bin Sazali<br>
 - Muhammad Ridwan bin Mohamad Syaharun Nizar
-
 </details>
+
+Short Blog:
+<a href= "https://www.youtube.com/watch?v=p05J5pTfHg4">Watch the Blog Here<a/> 
 </pre>
 
 ---
