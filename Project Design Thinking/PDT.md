@@ -5,7 +5,7 @@ Our problem definition relates to haircare and barbers.
 
 <pre>
   Click here to view report:
-  <a href = "" >Report</a>
+  <a href = "Project Design Thinking Report.pdf" >Report</a>
 
   Click here to view video:
   <a href = "https://youtu.be/gZ4C8fUo5AQ?si=L1ltuPGYkKUrOhxJ" >Video</a>
