@@ -5,6 +5,11 @@
 
 </div>
 
+<pre>
+  Click here to view report: 
+  <a href = "Report Assignment 3.pdf" >Report</a>
+</pre>
+
 ---
 ### Reflection
 &nbsp;&nbsp;&nbsp;&nbsp;From a talk entitled "Project Management and Project Development" delivered by Serunai Commerce Sdn Bhd, I learnt several important things including time management, highlighted skillsets and project management phases. <br>
