@@ -9,6 +9,13 @@
   <img src="pic 4.jpg" width="375"/>
 </div>
 
+<pre>
+  <details>
+    <summary>View Quiz</summary>
+    <img src = "Quiz.jpg">
+  </details>
+</pre>
+
 ---
 ### Reflection
 &nbsp;&nbsp;&nbsp;&nbsp;This reflection discusses my experience on assembling and disassembling a PC, which helped me to learn about several things. First, I got to identify and understand the structures and organization of the components inside the PC. In addition, I learnt the proper method for setting up the PC for usage after assembling it.
