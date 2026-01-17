@@ -13,8 +13,8 @@
 - Muhammad Ridwan bin Mohamad Syaharun Nizar
 </details>
 
-Short Blog:
-<a href= "https://www.youtube.com/watch?v=p05J5pTfHg4">Watch the Blog Here<a/> 
+Short Vlog:
+<a href= "https://www.youtube.com/watch?v=p05J5pTfHg4">Watch the Vlog Here<a/> 
 </pre>
 
 ---
