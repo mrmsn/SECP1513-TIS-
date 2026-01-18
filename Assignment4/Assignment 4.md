@@ -1,4 +1,4 @@
-## Industry Visit 2 | Johor Port Berhad | 8 January 2026
+## Industry Visit 2 - Johor Port Berhad | 8 January 2026
 
 <div>
   <img width="225" alt="image" src="https://github.com/user-attachments/assets/9fb631fd-2f59-4993-9e8f-3c7f0d60cc55" />
