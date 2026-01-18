@@ -1,4 +1,4 @@
-## **UTM Digital Open Day | 28 & 29 October 2025** 
+## **Industry Visit 1 - UTM Digital Open Day | 28 & 29 October 2025** 
 
 <img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/4eba15cf-347d-46fb-bcef-ef53384a3c8f" />
 <img width="650" height="273" alt="image" src="https://github.com/user-attachments/assets/7475bfbd-e0b7-4841-ad70-8b63e992b9d6" />
