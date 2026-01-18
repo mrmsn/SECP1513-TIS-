@@ -1,4 +1,4 @@
-## PPG Industry Talk | 20 November 2025 
+## Industry Talk 1 - PPG Industry Talk | 20 November 2025 
 
 <img width="650" height="635" alt="image" src="https://github.com/user-attachments/assets/84689422-3009-4f53-91fc-154e12ae3cd0" />
 
@@ -19,4 +19,5 @@ They also utilize Systems, Applications and Products in Data Processing (SAP) as
 &nbsp;&nbsp;&nbsp;&nbsp;In addition, they highlight the comparison between university-scale projects and industry-scale projects, the future of IT infrastructure and their customer services related to product creation. This helped me begin honing both my technical skills as well as my soft skills.
 
 ---
+
 
